@@ -1,7 +1,11 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
 
-AUTORES: Juan Alayon y Jose Castro
+AUTORES: 
+Pareja 1:
+Jonathan Paez y Carlos Amorocho
+Pareja 2:
+Juan Alayon y Jose Castro
 
 
 
